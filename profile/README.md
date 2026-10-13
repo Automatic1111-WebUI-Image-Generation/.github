@@ -25,7 +25,7 @@ Searches such as Automatic1111 WebUI image generation, Automatic1111 WebUI promp
 | **Remembers context** | Prompts, models, and presets help you return to the next task fast. |
 | **Fast feedback** | Open Automatic1111 WebUI, pick a prompt, and render without switching tools. |
 
-![Automatic1111 WebUI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWC8W7tvKtYpxwPIwvSCIu4IsNz32Sa44-UED4NBct7TqeVIJxmvWZWjd-&s=10)
+![Automatic1111 WebUI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSBW520ODfOD-HX_4sltRuy5nXgeeFIEsMmBvQhyOkLL5A515luJzFQjK0&s=10)
 
 ## Key Features of Automatic1111 WebUI
 
